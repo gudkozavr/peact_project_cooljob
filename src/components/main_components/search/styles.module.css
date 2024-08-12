@@ -1,0 +1,6 @@
+.search_container {
+  display: flex;
+  min-height: 705px;
+  min-width: 2120px;
+  background-color: rgba(205, 231, 255, 1);
+}
